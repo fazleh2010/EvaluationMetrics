@@ -1,0 +1,11 @@
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/utils/U.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/Recall.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/tasks/ecml/CqaEcml2016Scorer.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/IrAbstract.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/package-info.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/MeanAvgPrecision.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/AveP.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/tasks/ecml/CqaEcml2016ScoreFileReader.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/Precision.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/PRFA.java
+/home/elahi/final/EvaluationMetrics/src/main/java/qa/qf/qcri/iyas/evaluation/ir/MeanReciprocalRank.java

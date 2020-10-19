@@ -1,0 +1,13 @@
+qa/qf/qcri/iyas/evaluation/ir/AveP$2.class
+qa/qf/qcri/iyas/evaluation/ir/MeanAvgPrecision.class
+qa/qf/qcri/iyas/evaluation/ir/AveP$1.class
+qa/qf/qcri/tasks/ecml/CqaEcml2016Scorer.class
+qa/qf/qcri/iyas/evaluation/ir/MeanReciprocalRank.class
+qa/qf/qcri/iyas/utils/U.class
+qa/qf/qcri/iyas/evaluation/ir/Precision.class
+qa/qf/qcri/iyas/evaluation/ir/Recall.class
+qa/qf/qcri/iyas/evaluation/ir/PRFA.class
+qa/qf/qcri/tasks/ecml/CqaEcml2016ScoreFileReader.class
+qa/qf/qcri/iyas/evaluation/ir/AveP.class
+qa/qf/qcri/tasks/ecml/ScoreRecord.class
+qa/qf/qcri/iyas/evaluation/ir/IrAbstract.class

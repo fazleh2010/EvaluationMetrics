@@ -1,0 +1,7 @@
+qa/qf/qcri/iyas/evaluation/ir/MeanAvgPrecisionTest.class
+qa/qf/qcri/iyas/evaluation/ir/PRFATest.class
+qa/qf/qcri/iyas/evaluation/ir/MeanReciprocalRankTest.class
+qa/qf/qcri/iyas/evaluation/ir/IrAbstractTest.class
+qa/qf/qcri/iyas/evaluation/ir/AvePTest.class
+qa/qf/qcri/iyas/evaluation/ir/RecallTest.class
+qa/qf/qcri/iyas/evaluation/ir/PrecisionTest.class
